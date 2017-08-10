@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: youbot_description
+    relative_path: robots/youbot.urdf.xacro
+  SRDF:
+    relative_path: config/youbot.srdf
+  CONFIG:
+    author_name: nlimpert
+    author_email: limpert@fh-aachen.de
+    generated_timestamp: 1502356559
