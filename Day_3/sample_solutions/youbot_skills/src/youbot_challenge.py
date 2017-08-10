@@ -13,7 +13,6 @@ import tf2_geometry_msgs
 import actionlib
 from actionlib_msgs.msg import *
 import move_base_msgs.msg
-import dynamic_reconfigure.move_base_client
 
 from geometry_msgs.msg import PoseStamped
 from geometry_msgs.msg import TransformStamped
